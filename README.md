@@ -1,9 +1,10 @@
+![logo](https://github.com/Poojaojhaji/Poojaojhaji/blob/main/pooja%20gif.gif) 
 <h1 align="center">Hi 👋, I'm Pooja Ojha</h1>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile 😄</h3>
 
+<h1>  Hello Fellow <img src = "(https://github.com/Poojaojhaji/Poojaojhaji/blob/main/pooja%20gif.gif)" width = 50px> </h1>
 
-<h1> Hello Fellow <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 50px> </h1>
-<p align='center'>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Poojaojhaji/Poojaojhaji)
 
